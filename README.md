@@ -1,0 +1,1 @@
+A collection of projects to learn python syntax and review software engineering practices.
